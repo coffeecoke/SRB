@@ -201,6 +201,7 @@
 }
 .center-list li{
     line-height: 30px;
+    cursor: pointer;
 }
 .center-list li p{
     font-size:14px;
@@ -328,7 +329,7 @@
 }
 .box-info-one{
     width:34%;
-    height:378px;
+    /* height:378px; */
 }
 .box-info-title{
     height:57px;
@@ -362,11 +363,11 @@
 }
 .box-info-two{
     width:32%;
-    height:378px;
+    /* height:378px; */
 }
 .box-info-three{
     width:26%;
-    height:378px;
+    /* height:378px; */
 }
 .limit-n-text{
     color:#f1c761;
@@ -624,4 +625,116 @@
 }
 .bgRed span{
     color:#fff!important;
+}
+.box-body1{
+    height:333px;
+    background: #fff;
+}
+.box-body2{
+    height:363px;
+    background: #F4F4F4;
+}
+.box-scroll{
+    width:68%;
+}
+.box-info-title span{
+    font-size:12px;
+    font-family:PingFangSC-Regular;
+    font-weight:400;
+    color:rgba(153,153,153,1);
+    padding-left: 17px;
+}
+.box-scroll-left{
+    width:18%;
+    height:230px;
+    float: left;
+}
+.box-scroll-right{
+    width:82%;
+    height:230px;
+    float: left;
+}
+.scroll-lists{
+    width:100%;
+    height:230px;
+    overflow: auto;
+    margin:20px 0;
+}
+.scroll-list-ul li{
+    line-height: 40px;
+    text-align: center;
+}
+.textColor{
+    color:#CB3130;
+}
+.scroll-lists h4{
+    padding:10px 20px;
+}
+.office-list li{
+    float: left;
+    width:20%;
+    text-align: center;
+    padding:20px 0;
+}
+.office-list li img{
+    display: inline-block;
+    text-align: center
+}
+.office-list li span{
+    display: block;
+    font-size:14px;
+}
+.box-scroll-all{
+    width:100%;
+}
+.box-body3{
+    height:363px;
+    background:#fff;
+}
+.box-scroll-all .office-list li{
+    width:14%;
+}
+.center-list-color span{
+    color:#D62525;
+}
+.box-info-title-more{
+    float: left;
+}
+.box-info-title-ul{
+    float: right;
+}
+.box-info-title-ul li{
+    float: left;
+    line-height: 45px;
+    font-size:14px;
+    padding:0 20px;
+    position: relative;
+    cursor: pointer;
+}
+.bdActive{
+    border-bottom:solid 2px #D62525;
+    color:#D62525;
+}
+.box-info-title-ul li:before{
+    content:"";
+    width:1px;
+    height:17px;
+    background:rgba(216,216,216,1);
+    position: absolute;
+    right:0;
+    top:15px;
+}
+.box-info-title-ul li:last-child:before{
+    width:0;
+}
+.box-info-titles{
+    border-bottom:solid 1px #ccc;
+    margin-top:15px;
+}
+.box-info-titles h4{
+    border:none;
+}
+.box-body4{
+    height:367px;
+    background:rgba(244,244,244,1);
 }
