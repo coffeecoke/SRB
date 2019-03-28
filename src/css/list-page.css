@@ -1,0 +1,36 @@
+.box-news-title{
+    line-height: 50px;
+    padding-left: 5px;
+    border-bottom:solid 1px #ccc;
+    position: relative;
+}
+.box-news-title:after{
+    content: "";
+    width:94px;
+    height:4px;
+    background: #d72525;
+    position: absolute;
+    bottom:-1px;
+    left:0;
+}
+.box-news-ul{
+    padding:15px 0;
+}
+.box-news-ul li{
+    width:100%;
+    line-height: 35px;
+    cursor: pointer;
+}
+.box-news-text{
+    float: left;
+    color:#333;
+    font-size:14px;
+    padding-left: 20px;
+    background: url(../imgs/trun-left.png) no-repeat 5px center;
+}
+.box-news-span{
+    float: right;
+    color:#999;
+    font-size:12px;
+    padding-right: 10px;
+}

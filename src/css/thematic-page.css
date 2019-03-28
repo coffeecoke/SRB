@@ -1,0 +1,89 @@
+.box-containers{
+    width:100%;
+    height:auto;
+}
+.p-120{
+    padding:0 120px;
+}
+
+.box-pos-t-title{
+    text-align: center;
+    padding:20px;
+    font-size:24px;
+    color:#333;
+    font-weight:bolder;
+}
+.box-pos-t-list{
+    text-align: center;
+    margin:0 auto 20px;
+    color:#999;
+    font-size:14px;
+}
+.box-pos-introduce p{
+    padding:20px 0;
+    line-height: 30px;
+    color:#333;
+    font-size:14px;
+}
+.intro-text-indent{
+    text-indent: 24px;
+}
+.text-fj{
+    color:#c31818;
+    font-size:14px;
+    background: url("../imgs/fujian.png") no-repeat center left;
+    padding-left: 20px;
+    line-height: 40px;
+    display: block;
+}
+.box-swiper-switch{
+    padding:20px 0;
+    height:80px;
+    line-height: 80px;
+}
+.swiper-slide a{
+    color:#999;
+    font-size:14px;
+    line-height: 25px;
+    position: relative;
+    left:15%;
+}
+.box-banner .swiper-slide a{
+    position: absolute;
+    top:55%;
+    font-size:20px;
+    left:55%;
+    color:#666;
+    font-size:14px;
+    border:solid 1px #000;
+    padding:5px 20px;
+}
+.swiper-container1{
+    position: relative;
+    overflow: hidden;
+}
+.swiper-container1 .swiper-button-next,.swiper-container1 .swiper-button-prev{
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

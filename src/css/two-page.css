@@ -1,0 +1,22 @@
+.box-detali-l-ul li{
+    padding:20px;
+    border-bottom:solid 1px #ccc;
+    cursor: pointer;
+}
+.detali-title{
+    font-size:18px;
+    color:#333;
+}
+.text-over{
+    width:80%;
+    line-height: 35px;
+    color:#666;
+    font-size:14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.detali-intro{
+    color:#999;
+    font-size:12px;
+}
