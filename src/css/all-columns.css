@@ -35,10 +35,10 @@
   padding-left: 80px;
   padding-right: 20px;
 }
-.all-columns-container .all-columns-items li.column-item1 {
+.all-columns-container .all-columns-items li.column-item1{
   background: url(../imgs/column-icon1.png) 30px center no-repeat;
 }
-.all-columns-container .all-columns-items li.column-item2 {
+.all-columns-container .all-columns-items li.column-item2{
   background: url(../imgs/column-icon2.png) 30px center no-repeat;
 }
 .all-columns-container .all-columns-items li.column-item3 {
@@ -88,4 +88,81 @@
 }
 .all-columns-container .all-columns-items li.column-item18 {
   background: url(../imgs/column-icon18.png) 30px center no-repeat;
+}
+.all-columns-items li.on,
+.all-columns-items li:hover {
+  background-color: #CB3130!important;
+  color: #fff;
+}
+/* .all-columns-items li.on.column-item1,
+.all-columns-items li:hover.column-item1{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+} */
+.all-columns-items li.on.column-item2,
+.all-columns-items li:hover.column-item2{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item3,
+.all-columns-items li:hover.column-item3{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item4,
+.all-columns-items li:hover.column-item4{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item5,
+.all-columns-items li:hover.column-item5{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item6,
+.all-columns-items li:hover.column-item6{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item7,
+.all-columns-items li:hover.column-item7{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item8,
+.all-columns-items li:hover.column-item8{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item9,
+.all-columns-items li:hover.column-item9{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item10,
+.all-columns-items li:hover.column-item10{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item11,
+.all-columns-items li:hover.column-item11{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item12,
+.all-columns-items li:hover.column-item12{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item13,
+.all-columns-items li:hover.column-item13{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item14,
+.all-columns-items li:hover.column-item14{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item15,
+.all-columns-items li:hover.column-item15{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item16,
+.all-columns-items li:hover.column-item16{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item17,
+.all-columns-items li:hover.column-item17{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
+}
+.all-columns-items li.on.column-item3,
+.all-columns-items li:hover.column-item3{
+  background: url(../imgs/column-icon2.png) 30px center no-repeat;
 }
