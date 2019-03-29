@@ -738,3 +738,6 @@
     height:367px;
     background:rgba(244,244,244,1);
 }
+.box-scroll-right .entry-items{
+    margin-left:0;
+}
