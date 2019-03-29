@@ -150,7 +150,7 @@
     font-size:18px;
     font-weight: bold;
     position: relative;
-    margin-top:40px;
+    margin-top:20px;
 }
 .box-center-title:before{
     content: "";
@@ -729,7 +729,7 @@
 }
 .box-info-titles{
     border-bottom:solid 1px #ccc;
-    margin-top:15px;
+    /* margin-top:15px; */
 }
 .box-info-titles h4{
     border:none;
